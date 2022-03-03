@@ -1,8 +1,5 @@
 const { ethers } = require("ethers");
 const { getContractAt } = require("@nomiclabs/hardhat-ethers/internal/helpers");
-const ALCHEMY_KEY = "qhq5gWF4R_TXAK3AVkzUbdLl2VvWwRAm"
-const ACCOUNT_PRIVATE_KEY = "0a785101988a0ffea68b165ca5fb3d898acb3cd37e7b1ed624f84b44a830f6e5"
-const NFT_CONTRACT_ADDRESS = "0x971294aDd47630c5421E93A514Df834f7322eAF8"
 
 
 // Helper method for fetching environment variables from .env
